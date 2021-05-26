@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Computer Engineer, Queen's and UofT!
+### Computer Engineer, Queen's and UofT!
 ![Monkey Typing](monk.jpg)
 <!--
 **andrewmbrown/andrewmbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
